@@ -1,0 +1,22 @@
+{
+    "name": "sagittariusx/beluga.converters.html",
+    "description": "Some HTML to ??? converters",
+    "authors": [
+        {
+            "name": "SagittariusX",
+            "email": "unikado+sag@gmail.com"
+        }
+    ],
+    "license": "LGPLv3",
+    "require": {
+        "php": ">=7.0",
+        "sagittariusx/beluga.core": "^0.1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-0": {
+            "Beluga\\Converters\\HTML\\": "src/"
+        }
+    }
+}
