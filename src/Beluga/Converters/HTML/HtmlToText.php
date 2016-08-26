@@ -1,20 +1,20 @@
 <?php
 /**
- * In this file the class {@see \Beluga\Converters\HtmlToText} is defined.
+ * In this file the class {@see \Beluga\Converters\HTML\HtmlToText} is defined.
  *
  * @author         SagittariusX <unikado+sag@gmail.com>
  * @copyright  (c) 2016, SagittariusX
  * @package        Beluga
  * @since          2016-08-10
  * @subpackage     Converters/HTML
- * @version        0.1.0
+ * @version        0.1.1
  */
 
 
 declare( strict_types = 1 );
 
 
-namespace Beluga\Converters;
+namespace Beluga\Converters\HTML;
 
 
 use \Beluga\ArgumentError;
